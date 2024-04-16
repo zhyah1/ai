@@ -1,0 +1,57 @@
+
+
+pip install virtualenvwrapper-win
+mkvirtualenv rv
+
+Haarcascade
+pip install numpy
+pip install pillow 
+pip install opencv-python
+pip install face
+pip install opencv-contrib-python
+
+Mediapipe: pip install mediapipe
+Arcface: pip install arcface
+
+#Have to Download and install Cmake
+pip install cmake
+Dlib: pip install dlib
+
+
+pip install face-recognition
+
+configure MinGW
+
+python face_dataset.py
+python training.py
+python facerecognition.py
+
+Organized all to Haarcascade folder 😄
+Beginning From The Course ...... 
+
+pip install dlib
+
+pip install face-recognition
+
+
+Has to install Cmake Manually
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
